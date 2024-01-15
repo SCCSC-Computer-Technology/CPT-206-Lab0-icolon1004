@@ -1,0 +1,8 @@
+# CPT-206-Lab0
+## I learned how to create a clone and branch from the main file. The branch is a copy of the main file so you can work on it without messing with the main file.
+The main file is set and should not be mainly worked on until everything from the branch has passed and is working.
+Once the code is finished in a branch, you can submit a pull request where the team or whoever is in charge can then test the code to see if it works.
+After the code has passed inspection, the code can then be pushed to the main file, overwriting it and applying the changes.
+A fork is a copy of a repository, like a branch. I do not understand the difference between the two other than it says that a fork is mainly used to work on someone else's code.
+The clone, branch, and fork are all very similar, my understanding is that the clone is just a copy of the file to do whatever, a branch is a copy of the main file to work on and improve, and a fork
+is a copy of someone else's code to experiment with. I do not understand how any of these are any different other than being used for specific things.
